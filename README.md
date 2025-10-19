@@ -12,7 +12,7 @@ For å resette counterent bruker man `reset.bat`, etter endt stream eller før n
 ## Kan jeg bruke dette?
 Ja, men du må endre en del felter, primært mappestier, men også finne frem diverse passord og adresser i OBS. Kommentarer i selve koden er også ment for en ikke-koder, men content creator.
 
-![OpenBroadcaster Software logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/512px-OBS_Studio_Logo.svg.png)
+![OpenBroadcaster Software logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/250px-OBS_Studio_Logo.svg.png)
 
 ## Oppsett
 1. Sørg for å ha installert [Python](https://www.python.org/downloads/)
