@@ -1,5 +1,7 @@
 # Shotcounter til [Patrick Greves fyllestream](https://www.youtube.com/grevepatrick)
 
+![Shotglass](./assets/ShotGlass.png)
+
 ## Hva er dette
 Dette er et enkelt Python-script for å holde reede på antall shots Patrick Greve har fått donert på sin fyllestream.
 
@@ -9,6 +11,8 @@ For å resette counterent bruker man `reset.bat`, etter endt stream eller før n
 
 ## Kan jeg bruke dette?
 Ja, men du må endre en del felter, primært mappestier, men også finne frem diverse passord og adresser i OBS. Kommentarer i selve koden er også ment for en ikke-koder, men content creator.
+
+![OpenBroadcaster Software logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/512px-OBS_Studio_Logo.svg.png)
 
 ## Oppsett
 1. Sørg for å ha installert [Python](https://www.python.org/downloads/)
