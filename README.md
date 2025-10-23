@@ -46,3 +46,17 @@ C:\Python313\python.exe .\ShotCounter-GrevenStream.py
 @echo off
 C:\Python313\python.exe .\ShotCounter-GrevenStream.py reset
 ```
+
+# Screenshots
+
+![Utgangspunkt](0_shots.png)
+Utgangspunktet i OBS
+
+![Klikk på Increment](Increment.png)
+Klikk på denne
+
+![Shot counter value 1](1_shots.png)
+Etter å ha klikket øker telleren med ett inkrement.
+
+![Reset batch file](Reset.png)
+
