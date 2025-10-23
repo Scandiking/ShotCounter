@@ -49,14 +49,15 @@ C:\Python313\python.exe .\ShotCounter-GrevenStream.py reset
 
 # Screenshots
 
-![Utgangspunkt](0_shots.png)
-Utgangspunktet i OBS
+![Utgangspunkt](0_shots.png)  
+Utgangspunktet i OpenBroadcast Software etter å ha lagt til `GDI+ tekst`-element.
 
-![Klikk på Increment](Increment.png)
-Klikk på denne
+![Klikk på Increment](Increment.png)  
+Klikk på denne batch-filen for å øke tallet med ett inkrement 1+.  
 
-![Shot counter value 1](1_shots.png)
-Etter å ha klikket øker telleren med ett inkrement.
+![Shot counter value 1](1_shots.png)  
+Etter å ha klikket på `increment.bat` øker telleren med ett inkrement 1+.
 
-![Reset batch file](Reset.png)
+![Reset batch file](Reset.png)  
+For å resette counteren til 0 igjen, klikk på `reset.bat`.
 
