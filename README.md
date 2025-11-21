@@ -8,8 +8,8 @@ Den har funksjon for å øke et tall i en `counter.json`-fil med ett inkrement (
 
 For å resette counterent bruker man `reset.bat`, etter endt stream eller før neste stream.
 
-## Kan jeg bruke dette?
-Ja, men du må endre en del felter, primært mappestier, men også finne frem diverse passord og adresser i OBS. Kommentarer i selve koden er også ment for en ikke-koder, men content creator.
+## Kan jeg bruke dette om jeg ikke er Patrick?
+Ja, men du må endre en del felter, primært mappestier, men også finne frem diverse passord og adresser i OBS. Kommentarer i selve koden er også ment for en ikke-koder, en content creator.
 
 ![OpenBroadcaster Software logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/OBS_Studio_Logo.svg/250px-OBS_Studio_Logo.svg.png)
 
