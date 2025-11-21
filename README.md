@@ -1,6 +1,6 @@
 # Shotcounter til [Patrick Greves fyllestream](https://www.youtube.com/grevepatrick)
 
-![Shotglass](ShotCounterImage2.png)
+![Shotglass](ShotCounterImage7.png)
 ## Hva er dette
 Dette er et enkelt Python-script for å holde reede på antall shots Patrick Greve har fått donert på sin fyllestream.
 
