@@ -2,7 +2,7 @@
 
 ![Shotglass](ShotCounterImage7.png)
 ## Hva er dette
-Dette er et enkelt Python-script for å holde reede på antall shots Patrick Greve har fått donert på sin fyllestream.
+Dette er et enkelt Python-script for å holde reede på antall shots Patrick Greve har fått donert på sin fyllestream. I OBS-setup'et hans har han et tekstfelt for dette. "Problemet" er at denne må oppdateres manuelt ved å høyreklikkes på å endre tall manuelt hver gang. Ofte havner dette tallet bakpå den reelle situasjonen. Dette repositoryet løser det ved to batch-filer `increment.bat` og `reset.bat`. Ved å kjøre `increment.bat` øker tallet med ett inkrement. Batch-filen legges til som `Action` i StreamDeck, eller kjøres ved å dobbeltklikke på .bat-filen i Windows. Se bilder lenger ned.
 
 Den har funksjon for å øke et tall i en `counter.json`-fil med ett inkrement (+1), og brukes når man får donert én shot. Da bruker man `increment.bat`-filen, som legges til som Action i StreamDeck.
 
